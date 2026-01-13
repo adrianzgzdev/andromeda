@@ -1,1 +1,1 @@
-holamundo
+print("holamundo")
